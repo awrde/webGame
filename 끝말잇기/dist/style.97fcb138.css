@@ -1,0 +1,27 @@
+body {
+  background: black;
+  color: white;
+  display: flex;
+  justify-content: center; }
+
+main {
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+  main .ask {
+    font-size: 80px; }
+  main form {
+    margin-top: 50px; }
+    main form .inputStr {
+      color: white;
+      background: black;
+      outline: none;
+      border: none; }
+    main form .btnStr {
+      background: black;
+      color: white;
+      border: none; }
+
+
+/*# sourceMappingURL=/style.97fcb138.css.map */
